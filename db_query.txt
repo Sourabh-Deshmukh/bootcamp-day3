@@ -1,0 +1,4 @@
+
+5. Get all the bookings not done from web browser. 
+
+Query 5 ))))   select id from booking_order where device_type= 'Android App'; 
